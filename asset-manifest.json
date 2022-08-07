@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/web-tsm/static/css/main.9946febc.css",
-    "main.js": "/web-tsm/static/js/main.6b50c567.js",
+    "main.js": "/web-tsm/static/js/main.d1c2dabe.js",
     "static/media/back.jpg": "/web-tsm/static/media/back.615db78aa6f21c858723.jpg",
     "index.html": "/web-tsm/index.html",
     "main.9946febc.css.map": "/web-tsm/static/css/main.9946febc.css.map",
-    "main.6b50c567.js.map": "/web-tsm/static/js/main.6b50c567.js.map"
+    "main.d1c2dabe.js.map": "/web-tsm/static/js/main.d1c2dabe.js.map"
   },
   "entrypoints": [
     "static/css/main.9946febc.css",
-    "static/js/main.6b50c567.js"
+    "static/js/main.d1c2dabe.js"
   ]
 }
