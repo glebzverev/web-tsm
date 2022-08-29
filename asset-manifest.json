@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/web-tsm/static/css/main.1dad2851.css",
-    "main.js": "/web-tsm/static/js/main.f266aee0.js",
+    "main.js": "/web-tsm/static/js/main.f4817ec1.js",
     "index.html": "/web-tsm/index.html",
     "main.1dad2851.css.map": "/web-tsm/static/css/main.1dad2851.css.map",
-    "main.f266aee0.js.map": "/web-tsm/static/js/main.f266aee0.js.map"
+    "main.f4817ec1.js.map": "/web-tsm/static/js/main.f4817ec1.js.map"
   },
   "entrypoints": [
     "static/css/main.1dad2851.css",
-    "static/js/main.f266aee0.js"
+    "static/js/main.f4817ec1.js"
   ]
 }
